@@ -2078,7 +2078,7 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #00ffcc; /*ugly green ?*/
 		}
 
 		.icon.style2 {
@@ -2604,7 +2604,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: #00ffcc; /*porfolio icon greens*/
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2817,7 +2817,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #006080;
+			/* background-color: #21b2a6, 007399, 0086b3, 006080; */
 			color: #c8ece9;
 		}
 
