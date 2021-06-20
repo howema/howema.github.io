@@ -2981,9 +2981,16 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #003E52; /*was purple. pretty dark blue: 003242 portfolio*/
 			color: #d3d4e4;
 		}
+
+		.wrapper.style7 {
+			background-color: #006080; /*was purple? hobbies blue:004D6 green: 00523E*/
+			color: #d3d4e4;
+		}
+
+		
 
 			.wrapper.style3 strong, .wrapper.style3 b {
 				color: #ffffff;
