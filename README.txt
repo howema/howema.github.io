@@ -1,45 +1,24 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# :rocket: _To Cease To Change Is To Die_ :rocket: 
+
+## **Who?**
+
+* **_Full-Stack Apprentice_** at [Sparkbox](https://sparkbox.com/); _a welcome challenge- an unexpected invigoration_
+
+* **_Teaching Assistant_**, prior, for [Actualize Coding Bootcamp](https://anyonecanlearntocode.com/); a rewarding privilege
+
+* **_Antarctic Support Contractor_**, even prior, for [The United States Antarctic Program](https://www.usap.gov/)
 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+<br>
 
-- It's built with components from my Responsive Tools project.
+## **What?**
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
-
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+#### _"Do one thing, everyday, that scares you"_
+* [Live Demo](https://youtube.com/embed/SFxVsFiVKoA?start=264&ecver=1) of my full-stack `Ruby` app "Run Rabbit Run," _a tongue-in-cheek, mildly existential experience_
+* [Javascript AlgoLadder](https://github.com/howema/algorithm-ladder-js#readme): _seeing way too much of Javascript get over my breakup with Ruby_
+* Decomping my _Quotes n Notes_ (working title) `CRUDy` app in Vanilla `Javascript`.
 
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+#### _"I swear I was blind before I met you"_
+* [Responsive, Mobile-First CSS](https://codepen.io/howema/pen/wvpovdx): _a CodePen `HTML` `CSS` love affair_
+* [Twenty-Part CSS Tutorial](https://github.com/howema/html-css-rainforest-safari#readme): _a deep dive into conscientious, `accessible` design --> [_"How to Style HTML with CSS,"_](https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css) by [Philip Zastrow](https://zastrow.co/)_
