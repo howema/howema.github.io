@@ -1,3 +1,7 @@
 .align-left {
   text-align:left
 }
+
+.flag-space {
+  margin: 0 0 1em 2em;
+}
